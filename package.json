@@ -1,0 +1,25 @@
+{
+  "name": "qy-string-transform-ts",
+  "version": "1.0.0",
+  "description": "简易字符串内容转换TS版本",
+  "main": "dist/index.js",
+  "type": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QyNet/qy-string-transform-ts.git"
+  },
+  "keywords": [],
+  "author": "QyNet",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "bugs": {
+    "url": "https://github.com/QyNet/qy-string-transform-ts/issues"
+  },
+  "homepage": "https://github.com/QyNet/qy-string-transform-ts#readme"
+}
