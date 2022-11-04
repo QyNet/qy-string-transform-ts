@@ -4,11 +4,15 @@
     "lib": [
       "dom",
       "dom.iterable",
+      "es5",
+      "es6",
+      "es7",
       "esnext"
     ],
     "module": "commonjs",
     "declaration": true,
     "outDir": "./dist",
+    "downlevelIteration": true,
     "strict": true
   },
   "exclude": [
